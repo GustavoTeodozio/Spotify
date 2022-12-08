@@ -1,0 +1,14 @@
+body {
+    font-family:"Circular Spotify Tx T Black";
+    background:url(../capa.png),
+               url(../imagens/ruido.png),
+               linear-gradient(50deg,#ff4169,#7c26f8);
+    background-attachment:fixed;
+                             
+}
+
+/*nav bar*/
+nav.navbar-transparente{
+    padding: 10px 0px;
+    background:black;
+}
